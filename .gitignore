@@ -1,1 +1,13 @@
 node_modules
+
+.travis.yml
+
+gulpfile.js
+
+package.json
+
+package-lock.json
+
+scss
+
+README.md
